@@ -88,7 +88,7 @@ def is_palindrome(n) -> bool:
     aux2 = 0
     while aux1:
         aux2 = aux2*10+aux1%10
-        aux1 = aux1//1
+        aux1 = aux1//10
     if aux2 == n:
         return True
     else:
