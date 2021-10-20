@@ -121,7 +121,7 @@ def test_inlocuire_lista1():
 
 def inlocuire_lista2(lista2, lista3) -> list[int]:
     """
-        Inlocuieste elementele din lista cu oglinditele daca respecta conditiile mentionate.
+    Inlocuieste elementele din lista cu oglinditele daca respecta conditiile mentionate.
     :param lista2: a doua lista in care au fost introduse elementele
     :param lista3: a treia lista in care au fost introduse elementele
     :return: lista1 cu elementele inlocuite prin result_lst
